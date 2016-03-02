@@ -1,5 +1,12 @@
-# NCMSD-library
+#NCMSD-library
 Class PHP that will help connect mysql easy
+
+#File class PHP
+Connect DB(Mysql) = uploaded complete <br />
+Countdata no Condition(Mysql) = Comminguploaded complete <br />
+Insert data(Mysql) = uploaded complete <br />
+Delete data(Mysql) = uploaded complete <br />
+List data(Mysql) = uploaded complete <br />
 
 #Topic Tutorials VDO
 Connect DB(Mysql) = Comming soon <br />
