@@ -2,7 +2,7 @@
 Class PHP that will help connect mysql easy
 
 #File class PHP
-<span style="color:orange;">Connect DB(Mysql) = uploaded complete</span> <br />
+Connect DB(Mysql) = uploaded complete <br />
 Countdata no Condition(Mysql) = Comminguploaded complete <br />
 Insert data(Mysql) = uploaded complete <br />
 Delete data(Mysql) = uploaded complete <br />
